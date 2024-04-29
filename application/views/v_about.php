@@ -8,12 +8,12 @@
   <br>
   <h4>Alamat</h4>
   <ul type="none">
-    <li> Sungai raya </li>
+    <li> Desa Gunung Tamang RT 01 RW 01 Kecamatan Sungai Raya Kabupaten Kubu Raya  </li>
   </ul>
  
   <h4>Tempat Lahir</h4>
   <ul type="Tamao">
-  <li>Kabupaten kubu raya</li>
+  <li>Desa Gunung Tamang</li>
   </ul>
   <h4>Olah Raga Favorit</h4>
   <ul type="square">

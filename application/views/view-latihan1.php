@@ -1,7 +1,7 @@
 <html>
 <head>
  <title>Latihan 1</title>
-34
+ 
 </head>
 <body>
  Halo Kawan.. Yuk kita belajar web programming..!!!<br>
